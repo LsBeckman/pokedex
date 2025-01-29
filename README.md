@@ -40,7 +40,7 @@ Bem-vindo à Pokedex interativa! Um projeto desenvolvido com HTML, CSS e JavaScr
 
 Aqui está uma prévia de como a Pokedex se parece:
 
-![Exemplo de Pokedex](sua-imagem-aqui.png)
+![Exemplo de Pokedex](PokedexLB.png)
 
 ---
 
@@ -76,9 +76,3 @@ Se você deseja contribuir para o desenvolvimento dessa Pokedex, siga os seguint
 
 Feito por **Lucas Beckman**  
 [LinkedIn](https://www.linkedin.com/in/lucas-sales999/)
-
----
-
-## Licença
-
-Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
