@@ -75,7 +75,7 @@ Se você deseja contribuir para o desenvolvimento dessa Pokedex, siga os seguint
 ## Autor
 
 Feito por **Lucas Beckman**  
-[LinkedIn](https://www.linkedin.com/in/lucas-sales999/) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/lucas-sales999/)
 
 ---
 
